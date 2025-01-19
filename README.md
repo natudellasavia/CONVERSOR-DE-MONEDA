@@ -1,6 +1,6 @@
 # CONVERSOR DE MONEDA
 
-Hay 3 divisas disponibles (peso argentino, dolar y euro) para seleccionar dos y poder realizar el cambio entre si siempre y cuando no sea la misma divisa y el valor sea mayor a cero.
+Hay 3 divisas disponibles (peso argentino, dolar y euro) de las cuales se pueden seleccionar dos para realizar el cambio entre si, ésto será siempre y cuando no sea la misma divisa y el valor ingresado sea mayor a cero.
 
 Tecnologías utilizadas: html, css y javascript
 
